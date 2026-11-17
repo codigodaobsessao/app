@@ -1,0 +1,26 @@
+{
+ "name": "Código da Obsessão",
+ "short_name": "Código da Obsessão",
+ "description": "30 dias para construir disciplina, foco e mentalidade de elite.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#06080D",
+ "theme_color": "#06080D",
+ "lang": "pt-BR",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
